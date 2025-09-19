@@ -19,6 +19,7 @@ project:
     
 site:
   url: https://reduction.coffee
+  baseurl: "" 
   template: book-theme
   options:
     logo: logo.png
