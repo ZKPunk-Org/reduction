@@ -3,6 +3,8 @@ All about provable security cryptography
 
 
 ## Building Log
+- [ ] First post about DHKE security based on DDH.
+- [x] Debut in Wechat group chat {sup}`250920`
 - [x] Launch to https://reduction.coffee {sup}`250919`
 - [x] Generate Logo {sup}`250918`
 - [x] Init Website {sup}`250918`
