@@ -1,0 +1,15 @@
+[project]
+name = "reduction"
+version = "0.1.0"
+description = "Reduction project with MyST markdown wiki"
+requires-python = ">=3.9"
+dependencies = [
+    "jupyter-book>=2.0.2",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["reduction"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
