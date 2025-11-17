@@ -21,6 +21,7 @@ project:
         - file: wiki/foundations/intro.ipynb
         - file: wiki/foundations/notation.ipynb
         - file: wiki/foundations/reductions.ipynb
+        - file: wiki/foundations/simulation-proofs.ipynb
     - title: Assumptions
       children:
         - file: wiki/assumptions/discrete-log.ipynb
@@ -35,10 +36,13 @@ project:
         - file: wiki/primitives/key-tweaking.ipynb
         - file: wiki/primitives/KE.ipynb
         - file: wiki/primitives/DHKE.ipynb
+        - file: wiki/primitives/coin-tossing.ipynb
+        - file: wiki/primitives/oblivious-transfer.ipynb
     - title: Advanced Topics
       children:
         - file: wiki/advanced/rom.ipynb
         - file: wiki/advanced/fiat-shamir.ipynb
+        - file: wiki/advanced/zero-knowledge.ipynb
         - file: wiki/advanced/ias.ipynb
     - title: Exercises
       children:
