@@ -3,6 +3,7 @@ All about provable security cryptography
 
 
 ## Building Log
+- [x] redirect domain to https://reduction.group {sup}`260920`
 - [ ] workbook content integration init {sup}`251009`
 - [x] First post about DHKE security based on DDH. {sup}`250922`
 - [x] Debut in Wechat group chat {sup}`250920`
